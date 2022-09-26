@@ -1,0 +1,1 @@
+{"1":"laptop_stand","2":"laptop_stand","3":"usb_hub","4":"laptop_stand","5":"usb_hub","6":"usb_hub","7":"mobile_stand"}
